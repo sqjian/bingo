@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="184mm" xmlns="http://www.w3.org/2000/svg" height="155mm" version="1.1" viewBox="0 0 696 588"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <polyline fill="none" points="247,290 314,290" stroke="#8080ff" stroke-width="1" stroke-dasharray="16,8"/>
+    <polyline fill="none" points="301,294 314,290 301,286" stroke="#8080ff" stroke-width="1"/>
+    <polyline fill="none" points="394,290 456,290" stroke="#8080ff" stroke-width="1" stroke-dasharray="16,8"/>
+    <polyline fill="none" points="442,294 456,290 442,286" stroke="#8080ff" stroke-width="1"/>
+    <path d="M600,286 L648,286 L648,286 L674,286" fill="none" stroke="#8080ff" stroke-width="1"
+          stroke-dasharray="16,8"/>
+    <polyline fill="none" points="661,290 674,286 661,282" stroke="#8080ff" stroke-width="1"/>
+    <path d="M18,286 L61,286 L61,286 L103,286" fill="none" stroke="#8080ff" stroke-width="1" stroke-dasharray="16,8"/>
+    <polyline fill="none" points="90,290 103,286 90,282" stroke="#8080ff" stroke-width="1"/>
+    <defs>
+        <linearGradient id="Gradient1" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="103" y="2" fill="url(#Gradient1)" width="144" height="584" stroke="#796206" stroke-width="1"/>
+    <image x="107" y="6" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="185" y="12" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        acceptor
+    </text>
+    <defs>
+        <linearGradient id="Gradient2" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="111" y="34" fill="url(#Gradient2)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="115" y="38" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="185" y="44" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native
+    </text>
+    <defs>
+        <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="66" fill="url(#Gradient3)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="89" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server1
+    </text>
+    <defs>
+        <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="156" fill="url(#Gradient4)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="179" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server2
+    </text>
+    <defs>
+        <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="247" fill="url(#Gradient5)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="270" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server3
+    </text>
+    <defs>
+        <linearGradient id="Gradient6" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="111" y="317" fill="url(#Gradient6)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="115" y="321" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="185" y="327" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib
+    </text>
+    <defs>
+        <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="141" y="349" fill="url(#Gradient7)" width="68" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin
+    </text>
+    <defs>
+        <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="139" y="439" fill="url(#Gradient8)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin2
+    </text>
+    <defs>
+        <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="139" y="530" fill="url(#Gradient9)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="553" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin3
+    </text>
+    <defs>
+        <linearGradient id="Gradient10" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="456" y="2" fill="url(#Gradient10)" width="144" height="584" stroke="#796206" stroke-width="1"/>
+    <image x="460" y="6" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="538" y="12" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        filter
+    </text>
+    <defs>
+        <linearGradient id="Gradient11" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="464" y="34" fill="url(#Gradient11)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="468" y="38" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="538" y="44" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native
+    </text>
+    <defs>
+        <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="66" fill="url(#Gradient12)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="89" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin1
+    </text>
+    <defs>
+        <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="156" fill="url(#Gradient13)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="179" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin2
+    </text>
+    <defs>
+        <linearGradient id="Gradient14" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="247" fill="url(#Gradient14)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="270" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin3
+    </text>
+    <defs>
+        <linearGradient id="Gradient15" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="464" y="317" fill="url(#Gradient15)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="468" y="321" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="538" y="327" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib
+    </text>
+    <defs>
+        <linearGradient id="Gradient16" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="349" fill="url(#Gradient16)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server1
+    </text>
+    <defs>
+        <linearGradient id="Gradient17" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="439" fill="url(#Gradient17)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server2
+    </text>
+    <defs>
+        <linearGradient id="Gradient18" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="530" fill="url(#Gradient18)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="553" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server3
+    </text>
+    <defs>
+        <radialGradient r="8" cx="10" cy="286" fx="10" fy="286" id="Gradient19" gradientUnits="userSpaceOnUse">
+            <stop offset="5%" stop-color="#c0c0c0"/>
+            <stop offset="85%" stop-color="#0080c0"/>
+        </radialGradient>
+    </defs>
+    <ellipse cx="10" cy="286" rx="8" ry="8" fill="url(#Gradient19)" stroke="#0080c0" stroke-width="1"/>
+    <ellipse cx="684" cy="286" rx="10" ry="10" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+    <line x1="677" x2="691" y1="279" y2="293" stroke="#0080c0" stroke-width="1"/>
+    <line x1="691" x2="677" y1="279" y2="293" stroke="#0080c0" stroke-width="1"/>
+    <defs>
+        <linearGradient id="Gradient20" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+        </linearGradient>
+    </defs>
+    <rect x="314" y="184" rx="10" ry="10" fill="url(#Gradient20)" width="80" height="205" stroke="#0080c0"
+          stroke-width="1"/>
+    <line x1="359" x2="354" y1="379" y2="383" stroke="#0080c0" stroke-width="1"/>
+    <defs>
+        <linearGradient id="Gradient21" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+        </linearGradient>
+    </defs>
+    <rect x="359" y="377" rx="1" ry="2" fill="url(#Gradient21)" width="5" height="4" stroke="#0080c0" stroke-width="1"/>
+    <defs>
+        <linearGradient id="Gradient22" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+        </linearGradient>
+    </defs>
+    <rect x="349" y="381" rx="1" ry="2" fill="url(#Gradient22)" width="5" height="4" stroke="#0080c0" stroke-width="1"/>
+    <text x="354" y="194" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">
+        scheduler
+    </text>
+    <defs>
+        <linearGradient id="Gradient23" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="328" y="209" fill="url(#Gradient23)" width="53" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="354" y="232" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        dag1
+    </text>
+    <defs>
+        <linearGradient id="Gradient24" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="328" y="269" fill="url(#Gradient24)" width="53" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="354" y="292" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        dag2
+    </text>
+    <defs>
+        <linearGradient id="Gradient25" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="328" y="330" fill="url(#Gradient25)" width="53" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="354" y="353" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        dag3
+    </text>
+    <defs>
+        <linearGradient id="Gradient26" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="111" y="34" fill="url(#Gradient26)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="115" y="38" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="185" y="44" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native
+    </text>
+    <defs>
+        <linearGradient id="Gradient27" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="66" fill="url(#Gradient27)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="89" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server1
+    </text>
+    <defs>
+        <linearGradient id="Gradient28" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="156" fill="url(#Gradient28)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="179" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server2
+    </text>
+    <defs>
+        <linearGradient id="Gradient29" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="247" fill="url(#Gradient29)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="270" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server3
+    </text>
+    <defs>
+        <linearGradient id="Gradient30" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="66" fill="url(#Gradient30)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="89" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server1
+    </text>
+    <defs>
+        <linearGradient id="Gradient31" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="156" fill="url(#Gradient31)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="179" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server2
+    </text>
+    <defs>
+        <linearGradient id="Gradient32" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="136" y="247" fill="url(#Gradient32)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="270" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-server3
+    </text>
+    <defs>
+        <linearGradient id="Gradient33" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="111" y="317" fill="url(#Gradient33)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="115" y="321" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="185" y="327" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib
+    </text>
+    <defs>
+        <linearGradient id="Gradient34" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="141" y="349" fill="url(#Gradient34)" width="68" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin
+    </text>
+    <defs>
+        <linearGradient id="Gradient35" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="139" y="439" fill="url(#Gradient35)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin2
+    </text>
+    <defs>
+        <linearGradient id="Gradient36" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="139" y="530" fill="url(#Gradient36)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="553" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin3
+    </text>
+    <defs>
+        <linearGradient id="Gradient37" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="141" y="349" fill="url(#Gradient37)" width="68" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin
+    </text>
+    <defs>
+        <linearGradient id="Gradient38" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="139" y="439" fill="url(#Gradient38)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin2
+    </text>
+    <defs>
+        <linearGradient id="Gradient39" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="139" y="530" fill="url(#Gradient39)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="175" y="553" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-plugin3
+    </text>
+    <defs>
+        <linearGradient id="Gradient40" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="464" y="34" fill="url(#Gradient40)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="468" y="38" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="538" y="44" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native
+    </text>
+    <defs>
+        <linearGradient id="Gradient41" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="66" fill="url(#Gradient41)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="89" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin1
+    </text>
+    <defs>
+        <linearGradient id="Gradient42" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="156" fill="url(#Gradient42)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="179" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin2
+    </text>
+    <defs>
+        <linearGradient id="Gradient43" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="247" fill="url(#Gradient43)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="270" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin3
+    </text>
+    <defs>
+        <linearGradient id="Gradient44" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="66" fill="url(#Gradient44)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="89" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin1
+    </text>
+    <defs>
+        <linearGradient id="Gradient45" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="156" fill="url(#Gradient45)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="179" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin2
+    </text>
+    <defs>
+        <linearGradient id="Gradient46" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="489" y="247" fill="url(#Gradient46)" width="78" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="528" y="270" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        native-plugin3
+    </text>
+    <defs>
+        <linearGradient id="Gradient47" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#fdf9ea"/>
+            <stop offset="95%" stop-color="#f5e6ad"/>
+        </linearGradient>
+    </defs>
+    <rect x="464" y="317" fill="url(#Gradient47)" width="128" height="261" stroke="#796206" stroke-width="1"/>
+    <image x="468" y="321" width="16" height="16" xlink:href="bingo_svg_Files/svg_bitmap1.png"/>
+    <text x="538" y="327" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib
+    </text>
+    <defs>
+        <linearGradient id="Gradient48" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="349" fill="url(#Gradient48)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server1
+    </text>
+    <defs>
+        <linearGradient id="Gradient49" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="439" fill="url(#Gradient49)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server2
+    </text>
+    <defs>
+        <linearGradient id="Gradient50" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="530" fill="url(#Gradient50)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="553" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server3
+    </text>
+    <defs>
+        <linearGradient id="Gradient51" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="349" fill="url(#Gradient51)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server1
+    </text>
+    <defs>
+        <linearGradient id="Gradient52" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="439" fill="url(#Gradient52)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server2
+    </text>
+    <defs>
+        <linearGradient id="Gradient53" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="491" y="530" fill="url(#Gradient53)" width="73" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="527" y="553" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        golib-server3
+    </text>
+    <defs>
+        <linearGradient id="Gradient54" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="328" y="209" fill="url(#Gradient54)" width="53" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="354" y="232" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        dag1
+    </text>
+    <defs>
+        <linearGradient id="Gradient55" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="328" y="269" fill="url(#Gradient55)" width="53" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="354" y="292" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        dag2
+    </text>
+    <defs>
+        <linearGradient id="Gradient56" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ceceff"/>
+        </linearGradient>
+    </defs>
+    <rect x="328" y="330" fill="url(#Gradient56)" width="53" height="40" stroke="#808080" stroke-width="1"/>
+    <text x="354" y="353" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">
+        dag3
+    </text>
+</svg>

@@ -1,0 +1,45 @@
+language: go
+
+dist: focal
+
+env:
+  global:
+    - GO111MODULE=on
+    - GOPROXY=https://proxy.golang.org
+
+git:
+  depth: 1
+
+branchs:
+  only:
+    - main
+  except:
+    - test
+
+go:
+  - "1.14.8"
+  - "1.15.1"
+  - master
+
+arch:
+  - amd64
+
+os:
+  - linux
+  - osx
+  - windows
+
+jobs:
+  fast_finish: true
+  allow_failures:
+    - os: osx
+  exclude:
+    - os: windows
+
+install: true
+
+script:
+  - go mod download
+  - go mod verify
+  - ls -lh
+  - make test

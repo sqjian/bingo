@@ -1,0 +1,20 @@
+[acceptor]
+native = ["cmdserver"]
+golib = ["httpserver"]
+
+[plugin]
+golib = ["print.so"]
+
+[log]
+file = "test.log"
+maxsize = 1
+maxbackups = 1
+maxage = 1
+level = "debug"
+
+#--------------------------------------
+[cmdserver]
+addr = ":80"
+
+[httpserver]
+addr = ":80"
